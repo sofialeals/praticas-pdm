@@ -1,0 +1,1 @@
+# Repositório das práticas implementadas na disciplina de Programação para Dispositivos Móveis com a linguagem Kotlin.
