@@ -1,4 +1,4 @@
-package com.example.pratica_compose
+package com.example.learn_together
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

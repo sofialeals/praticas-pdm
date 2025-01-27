@@ -1,4 +1,4 @@
-package com.example.pratica_compose
+package com.example.learn_together
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,9 +11,9 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.pratica_compose.ui.theme.PraticacomposeTheme
+import com.example.learn_together.ui.theme.PraticacomposeTheme
 
-class MainActivity : ComponentActivity() {
+class LearnTogether : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()

@@ -1,4 +1,4 @@
-package com.example.pratica_compose
+package com.example.learn_together
 
 import org.junit.Test
 
